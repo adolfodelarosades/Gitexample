@@ -12,6 +12,8 @@
 		18D17C8D22E2FFC8007A52D1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 18D17C8B22E2FFC8007A52D1 /* Main.storyboard */; };
 		18D17C8F22E2FFCD007A52D1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 18D17C8E22E2FFCD007A52D1 /* Assets.xcassets */; };
 		18D17C9222E2FFCD007A52D1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 18D17C9022E2FFCD007A52D1 /* LaunchScreen.storyboard */; };
+		18D17C9B22E30D7D007A52D1 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 18D17C9922E30D7D007A52D1 /* README.md */; };
+		18D17C9C22E30D7D007A52D1 /* prueba.txt in Resources */ = {isa = PBXBuildFile; fileRef = 18D17C9A22E30D7D007A52D1 /* prueba.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		18D17C8E22E2FFCD007A52D1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		18D17C9122E2FFCD007A52D1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		18D17C9322E2FFCD007A52D1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		18D17C9922E30D7D007A52D1 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = SOURCE_ROOT; };
+		18D17C9A22E30D7D007A52D1 /* prueba.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = prueba.txt; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +60,8 @@
 			children = (
 				18D17C8722E2FFC8007A52D1 /* AppDelegate.swift */,
 				18D17C8922E2FFC8007A52D1 /* ViewController.swift */,
+				18D17C9A22E30D7D007A52D1 /* prueba.txt */,
+				18D17C9922E30D7D007A52D1 /* README.md */,
 				18D17C8B22E2FFC8007A52D1 /* Main.storyboard */,
 				18D17C8E22E2FFCD007A52D1 /* Assets.xcassets */,
 				18D17C9022E2FFCD007A52D1 /* LaunchScreen.storyboard */,
@@ -123,7 +129,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				18D17C9222E2FFCD007A52D1 /* LaunchScreen.storyboard in Resources */,
+				18D17C9C22E30D7D007A52D1 /* prueba.txt in Resources */,
 				18D17C8F22E2FFCD007A52D1 /* Assets.xcassets in Resources */,
+				18D17C9B22E30D7D007A52D1 /* README.md in Resources */,
 				18D17C8D22E2FFC8007A52D1 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
