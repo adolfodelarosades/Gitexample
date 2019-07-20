@@ -15,6 +15,9 @@ class ViewController: UIViewController {
         
         
         print("Este es un proyecto de ejemplo para ver el funcionamiento de un repositorio git")
+        
+        let today = NSDate()
+        print(today)
     }
 
 
